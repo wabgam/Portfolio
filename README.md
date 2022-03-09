@@ -1,6 +1,6 @@
 # Portfolio
 This portfolio is a small project using HTML , CSS, BootStrap, I will be using this to showcase my projects !
-[Live Heroku Deployment](https://i-gemechu.herokuapp.com/)
+[Live Heroku Deployment](https://portfolio-gemechu.herokuapp.com/)
 ## Technologies Used
 - HTML
 - CSS
